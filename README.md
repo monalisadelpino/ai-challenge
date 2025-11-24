@@ -11,20 +11,35 @@ Agente que responde perguntas sobre condições climáticas atuais e previsões 
 
 ## 📸 Prints
 * Tela inicial do portal do Microsoft Azure
+
 ![Tela inicial do portal do Microsoft Azure](print01.png)
+
 * Menu de 9 pontos aberto, mostrando o acesso ao AI Foundry
+
 ![Menu de 9 pontos aberto, mostrando o acesso ao AI Foundry](print02.png)
+
 * Tela inicial do AI Foundry
+
 ![Tela inicial do AI Foundry](print03.png)
+
 * Criando um projeto
+
 ![Criando um projeto](print04.png)
+
 * Escolhendo o modelo
+
 ![Escolhendo o modelo](print05.png)
+
 * Implantando modelo
+
 ![Implantando modelo](print06.png)
+
 * Configurando as instruções do agente
+
 ![Configurando as instruções do agente](print07.png)
+
 * Testando
+
 ![Clima no Rio de Janeiro](print08.png)
 ![Clima em Londres](print09.png)
 ![Clima e sugestões de vestimentas para Tóquio](print10.png)
